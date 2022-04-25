@@ -44,7 +44,6 @@ body {
   color: hsl(217, 12%, 63%);
   line-height: 22px;
   width: 76vw;
-  font-size: 13.5px;
 }
 .img-div {
   height: var(--height-width);
@@ -132,5 +131,8 @@ body {
   }
   .star-img {
     width: 1.1rem;
+  }
+  .para{
+      font-size: 13.5px;
   }
 }
